@@ -20,3 +20,5 @@ def calculate_square(number):
     square = number*number
     print(f"Square {square})!")
 calculate_square(number)
+
+print("Everything is working just fine!")
