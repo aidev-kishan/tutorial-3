@@ -29,4 +29,4 @@ def cube(numbers):
     print(cube)
 cube(number_cubes)
 
-print("The feature is complate and ready to go! ")
+print("The feature is complate and ready to go ")
